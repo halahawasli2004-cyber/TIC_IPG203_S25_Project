@@ -6,7 +6,7 @@ public class VideoContent : MediaContent
 {
     public int Duration { get; set; }
 
- 
+
     public VideoContent(string id, string title, int duration) : base(id, title) 
     {
         Duration = duration;
