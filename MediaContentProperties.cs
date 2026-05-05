@@ -22,3 +22,4 @@ public abstract partial class MediaContent
     {
         _id = id;
         _title = title;
+    }
