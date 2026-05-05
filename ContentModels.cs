@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 // فئة الفيديو
 public class VideoContent : MediaContent
