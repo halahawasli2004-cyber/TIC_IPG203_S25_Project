@@ -21,7 +21,7 @@ class Program
             Console.ResetColor();
         };
 
-        // إضافة بيانات تجريبية (تطبيق تعدد الأشكال)
+        // إضافة بيانات تجريبية
         if (Validator.IsValidId("V101"))
             manager.AddContent(new VideoContent("V101", "Lily's Garden", 5));
 
