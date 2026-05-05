@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
 
-// تعريف الواجهة (الطلب 1)
+// تعريف الواجهة 
 public interface IPlayable
 {
     void StartActivity();
 }
 
-// تعريف الفئة المجردة الأساسية (الطلب 1)
+// تعريف الفئة المجردة الأساسية 
 public abstract class MediaContent : IPlayable
 {
    
